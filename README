@@ -1,0 +1,3 @@
+clojure-fb is a Clojure library for developing Facebook applications. This
+library includes support for parsing POST's from Facebook to your application
+as well as making calls to Facebook's API.
